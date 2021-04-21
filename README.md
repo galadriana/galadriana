@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **self-regulation learning**
 
-- 🌱 I’m currently learning **Variational Bayes optimization**
+- 🌱 I’m currently learning **Variational Bayes **
 
-- 👯 I’m looking to collaborate on **NeuroCompu**
+- 👯 I’m looking to collaborate on **NeuroCompu and Biomedical projects**
 
 - 📫 How to reach me **givargas@uc.cl**
 
