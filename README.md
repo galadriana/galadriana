@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gadriana_diez" target="blank"><img src="https://img.shields.io/twitter/follow/gadriana_diez?logo=twitter&style=for-the-badge" alt="gadriana_diez" /></a> </p>
 
-- 🔭 I’m currently working on **self-regulation learning**
+- 🔭 I’m currently working on **self-regulation learning** and **brain-body measurements under anesthesia**
 
-- 🌱 I’m currently learning **Variational Bayes **
+- 🌱 I’m currently learning **Variational Bayes**
 
 - 👯 I’m looking to collaborate on **NeuroCompu and Biomedical projects**
 
