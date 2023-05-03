@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NeuroCompu, Biomedical and Educational projects**
 
-- 📫 How to reach me **givargas@uc.cl**
+- 📫 How to reach me **gadriana.diez@gmail.com**
 
 
 
