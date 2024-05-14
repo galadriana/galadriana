@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gadriana_diez" target="blank"><img src="https://img.shields.io/twitter/follow/gadriana_diez?logo=twitter&style=for-the-badge" alt="gadriana_diez" /></a> </p>
 
-- 🔭 I’m currently working on **self-regulation learning** and **brain-body measurements under anesthesia**
+- 🔭 I’m currently working on **neurofeedback** and **brain-body measurements under anesthesia**
 
-- 👯 I’m looking to collaborate on **NeuroCompu, Biomedical and Educational projects**
+- 👯 I’m looking to collaborate on **Data Analysis, Biomedical and Educational projects**
 
 - 📫 How to reach me **gadriana.diez@gmail.com**
 
